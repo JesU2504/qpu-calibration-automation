@@ -1,3 +1,7 @@
+> **Status: project proposal — no implementation is committed in this repository.**
+> The components, features, benchmarks, and visualizations below describe a
+> proposed design. They are not completed work or measured results.
+
 # qpu-calibration-automation
 
 Why This Project Exists
